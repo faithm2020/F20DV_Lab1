@@ -30,4 +30,6 @@ let two = function(a, b)
 }
 
 let three = (a,b)=>a+b;
-   
+
+import {GCD} from './math.js';
+console.log(GCD(84, 52));
