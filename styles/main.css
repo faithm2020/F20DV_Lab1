@@ -1,0 +1,19 @@
+h1
+{
+    color: green;
+}
+
+p
+{
+    color: tomato;
+}
+
+p.myClass
+{
+    color: teal;
+}
+p#myId
+{
+    color: goldenrod;
+}
+   
