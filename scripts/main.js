@@ -18,3 +18,16 @@ console.log(a);
 console.log(o);
 console.log(o['key1']);
 console.log(o.key2);
+
+function one(a, b)
+{
+    return a+b;
+}
+
+let two = function(a, b)
+{
+    return a+b;
+}
+
+let three = (a,b)=>a+b;
+   
