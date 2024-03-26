@@ -1,16 +1,18 @@
+@import 'vars.css';
+
 h1
 {
-    color: green;
+    color: var(--main-color);
 }
 
 p
 {
-    color: tomato;
+    color: var(--main-color);
 }
 
 p.myClass
 {
-    color: teal;
+    color: var(--accent-color);
 }
 p#myId
 {
