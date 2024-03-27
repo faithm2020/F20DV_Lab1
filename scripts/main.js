@@ -36,3 +36,5 @@ console.log(GCD(84, 52));
 
 import {factorial as myFactorial} from './math.js';
 console.log(myFactorial(5));
+
+import Book from './book.js';
